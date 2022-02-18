@@ -1,6 +1,6 @@
 version: '3.3'
 services:
   frontend:
-    image: tanachok/234-deploylab-frontend-prod:latest
+    image: wathanyusul09/234-deploylab-frontend-prod:latest
     ports:
       - "9999:80"
